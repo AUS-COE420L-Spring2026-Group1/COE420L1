@@ -8,3 +8,8 @@ public class HelloWorld {
 	}
 
 }
+
+public static void featureB() {
+	System.out.println("Feature B added");
+}
+
